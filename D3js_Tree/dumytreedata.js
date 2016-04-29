@@ -1,0 +1,1 @@
+﻿var d = [{ "name": "If (feature 406 <= 72.0)", "type": "NO", "children": [{ "name": "If (feature 100 <= 165.0)", "type": "YES", "children": [{ "name": "Predict: 0.0", "type": "YES" }, { "name": "Predict: 1.0", "type": "NO"}] }, { "name": "Predict: 1.0", "type": "NO"}]}];
